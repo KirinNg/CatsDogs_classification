@@ -1,2 +1,9 @@
 Alex_Net iteration:1000 type:25% cat&dog:84%
 VGG_19 	 iteration:100  typr:0%	 cat&dog:67.75%
+
+0.0272553829
+bool 2kb
+float 12kb
+int 12kb
+ubyte 12kb
+uint 12kb
